@@ -17,15 +17,15 @@ You can see how to use `ApiClient` through the test codes in [SpringAutoConfigTe
 <dependency>
   <groupId>com.github.ryukato</groupId>
   <artifactId>link-developers-sdk-kt-spring-boot-support</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
 </dependency>
 ```
 ### Gradle Groovy DSL
 ```
-implementation 'com.github.ryukato:link-developers-sdk-kt-spring-boot-support:0.0.1'
+implementation 'com.github.ryukato:link-developers-sdk-kt-spring-boot-support:0.0.2'
 ```
 
 ### Gradle Kotlin DSL
 ```
-implementation("com.github.ryukato:link-developers-sdk-kt-spring-boot-support:0.0.1")
+implementation("com.github.ryukato:link-developers-sdk-kt-spring-boot-support:0.0.2")
 ```
