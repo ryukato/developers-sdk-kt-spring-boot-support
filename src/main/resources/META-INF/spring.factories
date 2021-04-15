@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yyoo.link.developers.sdk.autoconfigure.ApiClientSdkAutoConfiguration
